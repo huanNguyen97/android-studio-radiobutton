@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RadioButtonAndRadioGroup</string>
+
+    <!-- WWe Start Name -->
+    <string name="johnCena">John Cena</string>
+    <string name="randyOrton">Randy Orton</string>
+    <string name="romanReigns">Roman Reigns</string>
+    <string name="goldBerg">Gold Berg</string>
+    <string name="sheamus">Sheamus</string>
+
+    <!-- Ending Name -->
+</resources>
